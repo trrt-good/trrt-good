@@ -1,6 +1,5 @@
-- Interested in CS
-- Mainly use JAVA
-- Learning C/C++
+- Interested in ML
+- Mainly use C, Java and Julia
 
 <!---
 trrt-good/trrt-good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
