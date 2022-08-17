@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![Tyler's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trrt-good&theme=radical)
+![Tyler's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trrt-good&theme=radical&layout=compact)
 
 ### top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=3d-Rendering-JAVA&theme=radical)](https://github.com/trrt-good/3d-Rendering-JAVA) 
@@ -19,3 +19,4 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=trrt-good&theme=react-dark)](https://github.com/trrt-good/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=trrt-good)
