@@ -1,5 +1,3 @@
-# Welcome
-
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
