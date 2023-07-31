@@ -1,13 +1,13 @@
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=trrt-good&show_icons=true&theme=radical&show_owner=false">
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=trrt-good&layout=compact&theme=radical">
-    </td>
-  </tr>
-</table>
+[comment]: <table>
+[comment]:  <tr>
+[comment]:    <td align="center" style="padding=0;width=50%;">
+[comment]:      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=trrt-[comment]: good&show_icons=true&theme=radical&show_owner=false">
+[comment]:    </td>
+[comment]:    <td align="center" style="padding=0;width=50%;">
+[comment]:      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=trrt-good&layout=compact&theme=radical">
+[comment]:    </td>
+[comment]:  </tr>
+[comment]:</table>
 
 ![Tyler's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trrt-good&theme=radical&layout=compact)
 
