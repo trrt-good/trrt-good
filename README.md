@@ -13,8 +13,6 @@
 
 ### top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=3d-Rendering-JAVA&theme=radical)](https://github.com/trrt-good/3d-Rendering-JAVA) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=Gravity-Simulator&theme=radical)](https://github.com/trrt-good/NeuralNetworks.c) 
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=trrt-good&theme=react-dark)](https://github.com/trrt-good/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=NeuralNetworks.c&theme=radical)](https://github.com/trrt-good/NeuralNetworks.c) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trrt-good)
