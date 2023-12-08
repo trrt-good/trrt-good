@@ -11,7 +11,7 @@
 
 ![Tyler's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trrt-good&theme=radical&layout=compact)
 
-### top repositories
+## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=3d-Rendering-JAVA&theme=radical)](https://github.com/trrt-good/3d-Rendering-JAVA) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrt-good&repo=NeuralNetworks.c&theme=radical)](https://github.com/trrt-good/NeuralNetworks.c) 
 
